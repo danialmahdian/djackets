@@ -8,7 +8,7 @@
 -Done Create serializer and views for the products <br />
 -Create simple front page (latest products) <br />
 -View a product <br />
-    -Create viewset in Django <br /> 
+<Tab />    -Create viewset in Django <br /> 
     -Create vue page for showing product <br />
     -Add link to detail page <br />
 -Sette opp Vuex / State <br />
@@ -34,8 +34,8 @@
 -Create a simple success page <br />
 -Show my orders on the my account page <br />
     -An order should be a component <br />
--Deploy Django \n
-    -Create a server and access it <br />
+-Deploy Django <br />
+<Tab />    -Create a server and access it <br />
     -Install software <br />
     -Create postgres database <br />
     -Create users and virtual environment <br />
