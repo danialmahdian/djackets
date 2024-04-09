@@ -1,6 +1,6 @@
 -Todo list
 
--Done Install and setup (Django)
+-Done Install and setup (Django) \n
 -Done Install and setup (Vue)
 -Done Include Font Awesome
 -Done Set up the base template
